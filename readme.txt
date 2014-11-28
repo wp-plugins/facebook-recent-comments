@@ -22,7 +22,7 @@ Please note that this plugins uses caching, comments don't appear immediately up
 
 == Installation ==
 1. Go to your admin area and select Plugins -> Add new from the menu.
-2. Search for "Facebook Recent Comments Widget".
+2. Search for "Facebook Recent Comments".
 3. Click install.
 4. Click activate.
 
