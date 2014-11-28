@@ -1,0 +1,40 @@
+/**
+ * Facebook Recent Commets Styles
+ *
+ * Created By Bishoy
+ * http://bishoy.me
+ */
+
+.widget .fb-commets-widg-container {
+	margin-bottom: 15px;
+	border: 1px solid #E3E3E3;
+	padding: 0;
+}
+
+ul.fb-comments-list {
+	margin-bottom: 0;
+}
+
+.widget.fb_recent_comments ul li {
+	padding: 10px;
+	background: #F5F5F5;
+	border-bottom: 1px solid #E3E3E3;
+	margin: 0;
+}
+
+.widget.fb_recent_comments ul li .comment-content {
+	font-weight: bold;
+}
+
+.widget.fb_recent_comments ul li .comment-meta {
+	font-style: italic;
+	font-size: 12px;
+}
+
+.widget.fb_recent_comments ul li:nth-child(even) {
+	background: #FFF;
+}
+
+.widget.fb_recent_comments ul li:last-of-type {
+	border-bottom: 0;
+}
