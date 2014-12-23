@@ -3,7 +3,7 @@ Contributors: Bishoy.A
 Tags: Facebook, comments, Widget, 
 Donate link: http://bishoy.me/donate
 Requires at least: 2.8
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 1.0
 Author: Bishoy A.
 License: GPL2
