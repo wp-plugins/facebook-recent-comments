@@ -3,7 +3,7 @@
  * Plugin Name: Facebook Recent Comments
  * Plugin URI: http://bishoy.me/wp-plugins/facebook-recent-comments/
  * Description: Adds <a href="widgets.php">a widget</a> for recent Facebook comments made using the Facebook comments box. If you like this free plugin, please <a href="http://bishoy.me/donate" target="_blank">consider a donation</a>.
- * Version: 1.0
+ * Version: 1.1
  * Author: Bishoy A.
  * Author URI: http://bishoy.me
  * License: GPL2
