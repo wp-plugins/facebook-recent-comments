@@ -4,7 +4,7 @@ Tags: Facebook, comments, Widget,
 Donate link: http://bishoy.me/donate
 Requires at least: 2.8
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 Author: Bishoy A.
 License: GPL2
 License URI: http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
@@ -27,6 +27,11 @@ Please note that this plugins uses caching, comments don't appear immediately up
 4. Click activate.
 
 == Changelog ==
+
+= 1.1 =
+* Improved Performance.
+* Fixed an issue that was showing random comments instead of recent comments.
+* Added an option to remove the commenter's profile link.
 
 = 1.0 =
 * Initial plugin release.
