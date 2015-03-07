@@ -14,7 +14,12 @@ Adds a widget for recent Facebook comments made using the Facebook comments box.
 == Description ==
 Do you use Facebook Comments box (https://developers.facebook.com/docs/plugins/comments/) on your website and still want to show recent comments made on your posts? You're not Screwed! This plugin will solve your small problem :-)
 
-Please note that this plugins uses caching, comments don't appear immediately upon posting.
+Please note that this plugins uses caching, comments won't appear immediately upon posting.
+
+** New ** 
+* Improved Performance.
+* Fixed an issue that was showing random comments instead of recent comments.
+* Added an option to remove the commenter's profile link.
 
 == Screenshots ==
 
